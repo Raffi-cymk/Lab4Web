@@ -64,7 +64,8 @@ Lab4_Layout/
 ---
 
 🧩 2 Pertanyaan dari Modul PDF
-1️⃣ Tambahkan Layout untuk menu About
+
+1️. Tambahkan Layout untuk menu About
 ➡️ Jawaban:
 Buat file baru about.html berisi deskripsi atau portfolio singkat.
 Contohnya:
@@ -74,7 +75,7 @@ Contohnya:
   <p>Saya mahasiswa Universitas Pelita Bangsa yang mempelajari pemrograman web.</p>
 </section>
 
-2️⃣ Tambahkan Layout untuk menu Contact
+2️. Tambahkan Layout untuk menu Contact
 ➡️ Jawaban:
 Buat file kontak.html berisi form isian.
 Contohnya:
