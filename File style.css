@@ -1,0 +1,41 @@
+/* Reset & Font */
+* { margin: 0; padding: 0; }
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: #5a5a5a;
+}
+#container {
+  width: 980px;
+  margin: 0 auto;
+  box-shadow: 0 0 1em #ccc;
+}
+
+/* Header */
+header { padding: 20px; }
+header h1 { color: #b5b5b5; }
+
+/* Navigasi */
+nav { background: #1f5faa; }
+nav a {
+  padding: 15px 30px;
+  display: inline-block;
+  color: white;
+  text-decoration: none;
+}
+nav a:hover, nav a.active { background: #2b83ea; }
+
+/* Hero */
+#hero { background: #e4e4e5; padding: 50px 20px; margin-bottom: 20px; }
+#hero h1 { font-size: 35px; margin-bottom: 20px; }
+
+/* Layout */
+#wrapper { margin: 0; }
+#main { float: left; width: 640px; padding: 20px; }
+#sidebar { float: left; width: 260px; padding: 20px; }
+
+/* Sidebar Widget */
+.widget-box { border:1px solid #eee; margin-bottom:20px; }
+.widget-box .title { background:#428bca; color:#fff; padding:10px 16px; }
+
+/* Footer */
+footer { clear: both; background: #1d1d1d; color: #eee; padding: 20px; }
