@@ -61,35 +61,6 @@ Lab4_Layout/
 | `about.html`    | Halaman tambahan berisi deskripsi dan portfolio diri                                |
 | `kontak.html`   | Halaman tambahan berisi form input nama, email, dan pesan                           |
 
----
-
-🧩 2 Pertanyaan dari Modul PDF
-
-1️. Tambahkan Layout untuk menu About
-➡️ Jawaban:
-Buat file baru about.html berisi deskripsi atau portfolio singkat.
-Contohnya:
-
-<section>
-  <h2>Tentang Saya</h2>
-  <p>Saya mahasiswa Universitas Pelita Bangsa yang mempelajari pemrograman web.</p>
-</section>
-
-2️. Tambahkan Layout untuk menu Contact
-➡️ Jawaban:
-Buat file kontak.html berisi form isian.
-Contohnya:
-
-<form>
-  <label>Nama:</label><br>
-  <input type="text"><br>
-  <label>Email:</label><br>
-  <input type="email"><br>
-  <label>Pesan:</label><br>
-  <textarea></textarea><br>
-  <button>Kirim</button>
-</form>
-
 
 ---
 
